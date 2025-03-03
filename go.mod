@@ -1,3 +1,3 @@
-module github.com/hugo-blox/create-blox
+module github.com/mingshanhee/hugo-markdown-wide
 
 go 1.19
